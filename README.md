@@ -2,7 +2,7 @@
 
 Git commands and Alias
 
-Git Commands
+##Git Commands
 
 git config --global user.name
 git config --global user.email
